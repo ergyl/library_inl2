@@ -7,6 +7,10 @@ package se.yrgo.library.models;
 import java.time.LocalDate;
 import utilities.LoanStatus;
 
+/***
+ * This class represents book loans from users.
+ */
+
 public class Loan {
 
 private int ID;
@@ -62,15 +66,26 @@ public Book getBook() {
   return book;
 }
 
-public LocalDate getDueDate() {
+  /***
+   * This method is used for retrieving due date for book loans.
+   * @return duedate for when the book is to be returned.
+   */
+  public LocalDate getDueDate() {
   return dueDate;
 }
-	
-public LoanStatus getStatus() {
+
+  /***
+   * This method is used for checking loan status.
+   * @return status
+   */
+  public LoanStatus getStatus() {
   return status;
 }
 
-public void endLoan() {
+  /***
+   * This method is used to end a certain book loan.
+   */
+  public void endLoan() {
   //returnDate = new Date();
   status = LoanStatus.HISTORIC;
 }
