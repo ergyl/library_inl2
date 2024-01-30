@@ -1,4 +1,4 @@
-package models;
+package se.yrgo.library.models;
 
 
 //import java.util.Date;

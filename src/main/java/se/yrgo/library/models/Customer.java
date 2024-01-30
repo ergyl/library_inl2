@@ -1,8 +1,8 @@
-package models;
+package se.yrgo.library.models;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
-import utilities.GenderType;
+import se.yrgo.library.utilities.GenderType;
 
 
 public class Customer {

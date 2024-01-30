@@ -1,4 +1,4 @@
-package models;
+package se.yrgo.library.models;
 
 
 public class BookCatalog {
@@ -28,7 +28,7 @@ public class BookCatalog {
 				return bookArray[counter];
 			}
 		}
-		throw new BookNotFoundException();
+		throw new BookNotFoundException("That book does not exist in the book catalogue.");
 	}
 
 }
