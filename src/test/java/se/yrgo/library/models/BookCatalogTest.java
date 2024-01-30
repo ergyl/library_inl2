@@ -20,7 +20,7 @@ public class BookCatalogTest {
     @Test
     public void testAddABook() {
         System.out.println("Starting testAddABook...");
-        Book b2 = new Book(2, "jUnit", "", "", "", 0);
+        var b2 = new Book(2, "jUnit", "", "", "", 0);
 
         System.out.println("Current number of books in book catalog: " + bc.getNumberOfBooks());
         assertEquals(1, bc.getNumberOfBooks());
