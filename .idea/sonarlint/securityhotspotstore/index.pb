@@ -35,3 +35,7 @@ i
 9src/test/java/se/yrgo/library/models/BookCatalogTest.java,b\7\b78f9437865711883cae2bfbd88b2e940c29c13e
 b
 2src/test/java/se/yrgo/library/models/LoanTest.java,7\c\7cb9271cfa8d03045c59edf2eaaa37c462ac94d3
+b
+2src/test/java/se/yrgo/library/models/BookTest.java,e\4\e436b6962e2f9357542ab88759cea2ff078b5045
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
