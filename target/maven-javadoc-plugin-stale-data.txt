@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/src/main/java:/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library-inl2 1.0.0 API'
+-use
+-version
+-windowtitle
+'library-inl2 1.0.0 API'
+se.yrgo.library.models
+se.yrgo.library.ui
+se.yrgo.library.utilities
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/src/main/java = 1706638137000
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/generated-sources/annotations = 1706651820968
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/allclasses-index.html = 1706651831092
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/allpackages-index.html = 1706651831097
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/element-list = 1706651830856
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/help-doc.html = 1706651831130
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/index-all.html = 1706651831122
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/index.html = 1706651831081
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/jquery-ui.overrides.css = 1706651831163
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/member-search-index.js = 1706651831105
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/module-search-index.js = 1706651831099
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/overview-summary.html = 1706651831125
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/overview-tree.html = 1706651831076
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/package-search-index.js = 1706651831101
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/script.js = 1706651831137
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/search.js = 1706651831140
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/serialized-form.html = 1706651830940
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/stylesheet.css = 1706651831134
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/tag-search-index.js = 1706651831106
+/mnt/c/Users/legio/Documents/YRGO/utvecklingsverktyg/homework/inlamning2/Library/target/site/apidocs/type-search-index.js = 1706651831102
