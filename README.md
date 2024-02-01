@@ -1,6 +1,6 @@
 # library_inl2_maven
 
-###Lista över Maven Goals som använts för: 
+- Lista över Maven Goals som använts för: 
 	compile,
 	ta bort klass filerna
 	javadoc
