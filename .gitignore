@@ -1,10 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/java
-# Edit at https://www.toptal.com/developers/gitignore?templates=java
-
-### Java ###
-# Compiled class file
-*.class
-
 # Sonarlint
 .idea/sonarlint
 
@@ -15,5 +8,3 @@
 *.zip
 *.tar.gz
 *.rar
-
-# End of https://www.toptal.com/developers/gitignore/api/java
